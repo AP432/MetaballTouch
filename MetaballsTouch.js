@@ -2,7 +2,7 @@
  * Created by AP3D 02.03.2024
  */
 
- function Metaballs(gl, config, targetScreenSize){
+ function MetaballsTouch(gl, config, targetScreenSize){
 
     var program;
     var metaballsObjects = [];
